@@ -80,9 +80,7 @@
 		<nav class="navbar navbar-default navbar-fixed-bottom">
 		<footer class="container">
 			<!-- Please dont delete this -->
-			created by <a href="https://www.facebook.com/celine.aloyshima.9?ref=bookmarks"><span><i class="fa fa-facebook" style="color:#1da1f2"></i> @celinealoyshima</span></a>
-			<!--/ Please dont delete this -->
-		</footer>	
+			created by <a> Willyardo </a>
 		</nav>
 		<script type="text/javascript" src="{{asset('component/jquery/dist/jquery.min.js')}}"></script>
 		<script type="text/javascript" src="{{asset('component/bootstrap/dist/js/bootstrap.min.js')}}"></script>
