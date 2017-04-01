@@ -50,3 +50,7 @@ Route::get('dosen_matakuliah/tambah', 'Dosen_matakuliahController@tambah');
 Route::get('jadwal_matakuliah', 'Jadwal_matakuliahController@awal');
 Route::get('jadwal_matakuliah/tambah', 'Jadwal_matakuliahController@tambah');
 
+Route::get('post','postcontroller@index');
+
+Route::get('mahasiswa_pengguna','MahasiswaController@mahasiswa');
+Route::get('dosen_pengguna','dosenController@dosen');
