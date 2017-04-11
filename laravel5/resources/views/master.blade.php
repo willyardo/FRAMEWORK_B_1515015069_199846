@@ -80,7 +80,9 @@
 		<nav class="navbar navbar-default navbar-fixed-bottom">
 		<footer class="container">
 			<!-- Please dont delete this -->
-			created by <a> Willyardo </a>
+			created by <a href="https://www.facebook.com/willyarrdo"><span><i class="fa fa-facebook" style="color:#1da1f2"></i> @Willyardo</span></a>
+			<!--/ Please dont delete this -->
+		</footer>	
 		</nav>
 		<script type="text/javascript" src="{{asset('component/jquery/dist/jquery.min.js')}}"></script>
 		<script type="text/javascript" src="{{asset('component/bootstrap/dist/js/bootstrap.min.js')}}"></script>
