@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
     <head>
-        <title>Laravel Willy</title>
+        <title>Laravel</title>
 
         <link href="https://fonts.googleapis.com/css?family=Lato:100" rel="stylesheet" type="text/css">
 
@@ -38,8 +38,8 @@
     <body>
         <div class="container">
             <div class="content">
-                <div class="title">Willyardo</div>
+                <div class="title">SAITAMA - SENSEI</div>
             </div>
         </div>
     </body>
-</html>
+</html> 
